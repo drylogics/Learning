@@ -8,7 +8,9 @@ Learning, Troubleshoots, references, data sources
 
 - Libraries
 
-  - [React Native](javascript/libraries/react-native.md)
+  - [React Native](javascript/libraries/react-native/react-native.md)
+
+    - [Testing](javascript/libraries/react-native/testing.md)
 
 - Services
 
