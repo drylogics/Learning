@@ -23,3 +23,7 @@ Learning, Troubleshoots, references, data sources
 ### Web App Development
 
 - [Info](web/info.md)
+
+### UI & UX
+
+- [Lottie Animations](https://github.com/react-native-community/lottie-react-native)
