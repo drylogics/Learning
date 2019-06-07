@@ -18,7 +18,7 @@ sum(...combined) // spread operator
 ```
 
 ### Downsides
-- way too slower than `.apply` (spread is slower while rest is the slowest)
+- way too slower than `.apply` (`spread` is slower while `rest` is the slowest)
 ```javascript
 // implementing using .apply
 const set1 = [1, 2, 3, 4, 5];
@@ -30,4 +30,4 @@ function sum() {
 
 sum.apply(null, set1)
 ```
-Lesson - ***consider for arrays with large number of elements*** (Note: Future updates of node, browsers, transpilers might continuously improve on this. So, not a big deal.)
+Lesson - ***consider before using for arrays with large number of elements*** (Note: Future updates of node, browsers, transpilers might continuously improve on this. So, not a big deal.)
