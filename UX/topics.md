@@ -1,0 +1,1 @@
+- [When to use Switch vs Checkbox?](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8)
