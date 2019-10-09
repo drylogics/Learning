@@ -27,3 +27,6 @@ Learning, Troubleshoots, references, data sources
 ### UI & UX
 
 - [Lottie Animations](https://github.com/react-native-community/lottie-react-native)
+
+### Styling
+- [SCSS](web/stylesheet/scss.md)
