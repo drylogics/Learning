@@ -5,3 +5,7 @@
 # Dynamic styling for psuedo elements
 
 - [Using css vars](https://stackoverflow.com/a/55475104/8359363)
+
+# Cross Browser help
+
+- [browser specific css](https://browserstrangeness.bitbucket.io/css_hacks.html)
