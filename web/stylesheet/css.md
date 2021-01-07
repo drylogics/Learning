@@ -8,4 +8,4 @@
 
 # Cross Browser help
 
-- [browser specific css](https://browserstrangeness.bitbucket.io/css_hacks.html)
+- [browser specific css](https://browserstrangeness.github.io/css_hacks.html)
