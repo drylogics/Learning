@@ -30,3 +30,6 @@ Learning, Troubleshoots, references, data sources
 
 ### Styling
 - [SCSS](web/stylesheet/scss.md)
+
+### Shell
+- [non-categorized](shell/shell.md)
