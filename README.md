@@ -33,3 +33,6 @@ Learning, Troubleshoots, references, data sources
 
 ### Shell
 - [non-categorized](shell/shell.md)
+
+### Python
+- TBD
